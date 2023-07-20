@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amirudin Harris Bin Azis
 - 👀 I’m interested in Wordpress development
-- 🌱 I’m currently learning on everything in wordpress T_T
+- 🌱 I’m currently learning on details related to front end on styling and resposiveness
 - 📫 harris960101@gmail.com
 
 <!---
